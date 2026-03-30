@@ -1,2 +1,1 @@
-# w3theme-app
-w3Theme - User Interface application.
+w3Theme - app
